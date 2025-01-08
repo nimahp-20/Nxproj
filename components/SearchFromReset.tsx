@@ -15,4 +15,4 @@ function SearchFromReset() {
     )
 }
 
-export default SearchFromReset
+export default SearchFromReset 
